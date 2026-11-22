@@ -7,7 +7,9 @@
 # ===========================
 # VSCode (config local del usuario)
 # ===========================
-.vscode/
+.vscode/*
+!.vscode/extensions.json
+
 
 # ===========================
 # Python (por si usas scripts)
@@ -30,4 +32,3 @@ Thumbs.db
 # ===========================
 # includes
 # ===========================
-
